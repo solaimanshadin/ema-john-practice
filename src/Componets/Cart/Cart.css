@@ -1,0 +1,12 @@
+.cart .title, 
+.cart .sub-title{
+    text-align: center;
+}
+
+.total{
+    color: #b12704;
+}
+.cart span{
+    display: inline-block;
+    float: right;
+}

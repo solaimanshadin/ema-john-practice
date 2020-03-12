@@ -1,0 +1,21 @@
+.single-product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding: 25px 0;
+
+}
+.single-product img{
+    margin-right: 30px;
+}
+.single-product h4{
+    color: blue;
+    font-weight: 400;
+}
+.buy-btn{
+    background-color: #f0c14b;
+    border: 1px solid #1f1b10 ;
+    width: 200px;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
